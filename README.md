@@ -1,1 +1,1 @@
-# Quantum-Pecularities
+# Quantum-Peculiarities
