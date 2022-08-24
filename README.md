@@ -1,4 +1,4 @@
-# Exploring-Quantum-Peculiarities
+# Exploring Quantum Peculiarities using single photons.
 
 Please find attached the 'Report' file containing the work.
 
