@@ -2,7 +2,7 @@
 
 Please find attached the 'Report' file containing the work.
 
-In this Project,
+In this Project:
 
 1) Proved the utility of spontaneous parametric down-conversion(SPDC) as a source of single photons.
 
